@@ -1,4 +1,4 @@
-// Extracted with MulleDK19's GMAD Extractor
+//
 "AddonInfo"
 {
 	"name" "Garry's Bombs 5: Materials Pack"
