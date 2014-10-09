@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/CaptainForever/gp"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/CaptainForever/gp_b"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "2"
+	"$phongfresnelranges" "[0 1 20]"
+	"$rimlight" "1"
+	"$rimlightexponent" "1"
+	"$rimlightboost" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.005 .005 .005]"
+}

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/CaptainForever/srb"
+	"$surfaceprop" "metal"
+	"$bumpmap" "models/CaptainForever/srb_b"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[0 1 50]"
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "2"
+}

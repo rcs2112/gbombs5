@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/starchick971/shell_he"
+	"$model" 1
+	"$nocull" 1
+}

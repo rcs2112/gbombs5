@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\Failure\B61/BasePlain"
+	"$envmap" 		"env_cubemap"
+	"$envmapcontrast"		"1"	
+	"$envmapmask"		"models\Failure\B61/BasePlain"
+	"$envmapsaturation" 	"0.3"
+}

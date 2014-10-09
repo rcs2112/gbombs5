@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/chappi/metal6_green"
+"$bumpmap" "models/chappi/metal6_n"
+}

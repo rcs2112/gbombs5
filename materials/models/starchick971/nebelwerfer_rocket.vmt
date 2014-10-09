@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/starchick971/Nebelwerfer_rocket"
+	"$model" 1
+	"$nocull" 1
+}

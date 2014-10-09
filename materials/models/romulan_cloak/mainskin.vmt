@@ -1,0 +1,29 @@
+"Refract"
+{
+"$model" 1
+"$bluramount" "15"
+"$surfaceprop" "glass"
+"$refractamount" "0.05"
+"$scale" "[.1 .1]"
+"$alpha" 1
+"$vertexalpha" "1"
+"$vertexcolor" "1"
+"$translucent" "1"
+"$forcerefract" 1
+"$nofog" "1"
+$NoCull 1
+
+"$normalmap" "models/romulan_cloak/mainskin"
+"$envmap" "env_cubemap"
+"$envmaptint" "[.5 .5 1.0]"
+"$REFRACTTINT" "[0 1 0 ]"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedtexturevar" "$normalmap"
+"animatedtextureframenumvar" "$bumpframe"
+"animatedtextureframerate" "25"
+}
+}
+}

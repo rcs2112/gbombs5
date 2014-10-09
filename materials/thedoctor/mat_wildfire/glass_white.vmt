@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "thedoctor/mat_wildfire/glass_white"
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$translucent" 1
+}
+

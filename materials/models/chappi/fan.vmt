@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/chappi/fan"
+                "$bumpmap" "models/chappi/fan_n"
+}
