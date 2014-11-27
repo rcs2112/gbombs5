@@ -14,8 +14,8 @@ ENT.Spawnable		            	 =  false
 ENT.AdminSpawnable		             =  false       
 
 ENT.PrintName		                 =  "Name"        
-ENT.Author			                 =  "natsu"      
-ENT.Contact			                 =  "natsu" 
+ENT.Author			                 =  "Rogue"      
+ENT.Contact			                 =  "Rogue" 
 ENT.Category                         =  ""            
 
 ENT.Model                            =  ""            

@@ -6,8 +6,8 @@ ENT.Spawnable			             =  true
 ENT.AdminSpawnable		             =  true
 
 ENT.PrintName		                 =  "Radioactive Barrel"
-ENT.Author			                 =  "Natsu"
-ENT.Contact		                     =  "Natsu"
+ENT.Author			                 =  "Rogue"
+ENT.Contact		                     =  "Rogue"
 ENT.Category                         =  "GB5: Nuclear"
 
 ENT.Model                            =  "models/thedoctor/radbarrel.mdl"                      

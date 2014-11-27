@@ -6,7 +6,7 @@ ENT.Spawnable		            	 =  true
 ENT.AdminSpawnable		             =  true 
 
 ENT.PrintName		                 =  "Ultra-Violet Bomb"
-ENT.Author			                 =  "Natsu"
+ENT.Author			                 =  "Rogue"
 ENT.Contact		                     =  ""
 ENT.Category                         =  "GB5: Specials"
 

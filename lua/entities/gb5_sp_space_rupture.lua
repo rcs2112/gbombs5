@@ -110,8 +110,6 @@ function ENT:Think(ply)
      if (SERVER) then
      if !self:IsValid() then return end
 	 local pos = self:GetPos()
-	 print(self.Max_Range)
-	 print(self.StepIncrement)
 	 self.Max_Range = self.Max_Range + self.StepIncrement
 	 
 	 self.EventHorizon=self.EventHorizon+5
@@ -209,7 +207,6 @@ function ENT:Think(ply)
 	 if self.Max_Range>=self.Target_Range then
 	    self:StopParticles()
 		self:Remove()
-		print("ye")
 	 end
 	 self:NextThink(CurTime() + 0.01)
 	 return true

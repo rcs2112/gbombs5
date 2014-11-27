@@ -70,7 +70,6 @@ function ENT:Think()
 					v:SetNWBool("waiting", false)
 					v:SetNWBool("ran_pitch", self.RandomPitch)
 					v:SetNWInt("maxsound_dist", self.Maxsounddist)
-					print(self.Maxsounddist)
 					v:SetNWString("sound", self.SOUND)
 					
 					

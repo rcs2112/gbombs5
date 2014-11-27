@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/sunbomb/redgiant_lava"
+	"$surfaceprop" "metal"
+	"$model" 1
+}
+

@@ -20,7 +20,7 @@ ENT.Spawnable		            	 =  false
 ENT.AdminSpawnable		             =  false         
 
 ENT.PrintName		                 =  "Name"       
-ENT.Author			                 =  "Avatar natsu"     
+ENT.Author			                 =  "Avatar Rogue"     
 ENT.Contact			                 =  "GTFO" 
 ENT.Category                         =  "GTFO!"           
 

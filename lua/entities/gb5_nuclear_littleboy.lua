@@ -6,7 +6,7 @@ ENT.Spawnable		            	 =  true
 ENT.AdminSpawnable		             =  true 
 
 ENT.PrintName		                 =  "Little boy"
-ENT.Author			                 =  "natsu"
+ENT.Author			                 =  "Rogue"
 ENT.Contact		                     =  "baldursgate3@gmail.com"
 ENT.Category                         =  "GB5: Nuclear"
 

@@ -6,7 +6,7 @@ ENT.Spawnable		            	 =  false
 ENT.AdminSpawnable		             =  false
 
 ENT.PrintName		                 =  "EMP Device"
-ENT.Author			                 =  "natsu"
+ENT.Author			                 =  "Rogue"
 ENT.Contact		                     =  "baldursgate3@gmail.com"
 ENT.Category                         =  "Garry's Bombs 5"
 

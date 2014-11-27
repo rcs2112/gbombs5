@@ -10,7 +10,7 @@ ENT.Spawnable		            	 =  true
 ENT.AdminSpawnable		             =  true 
 
 ENT.PrintName		                 =  "[4] Anti-Matter Propellant"
-ENT.Author			                 =  "Natsu"
+ENT.Author			                 =  "Rogue"
 ENT.Contact			                 =  "baldursgate3@gmail.com"
 ENT.Category                         =  "GB5: Missiles"
 

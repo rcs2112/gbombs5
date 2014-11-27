@@ -6,12 +6,12 @@ ENT.Spawnable		            	 =  true
 ENT.AdminSpawnable		             =  true 
 
 ENT.PrintName		                 =  "EMP Device"
-ENT.Author			                 =  "natsu"
+ENT.Author			                 =  "Rogue"
 ENT.Contact		                     =  "baldursgate3@gmail.com"
 ENT.Category                         =  "GB5: Specials"
 
 ENT.Model                            =  "models/thedoctor/emp_bomb.mdl"                      
-ENT.Effect                           =  "ion_cannon_main"                  
+ENT.Effect                           =  "shockwave_main"                  
 ENT.EffectAir                        =  "emp_main"                   
 ENT.EffectWater                      =  "water_huge"
 ENT.ExplosionSound                   =  "gbombs_5/explosions/special/emp.wav"

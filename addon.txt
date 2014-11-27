@@ -1,7 +1,12 @@
-// Extracted with MulleDK19's GMAD Extractor
-"AddonInfo"
-{
-	"name" "Garry's Bombs 5: Materials Pack"
-	"author_name" "Author Name"
-	"info" " { 	"description": "Description", 	"type": "weapon", 	"tags":  	[ 		"fun", 		"realism" 	] }"
-}
+
+1. Bomb Start.Wav for when a vortex spawns and draws in light.
+
+2.Blue Sun Birth.wav for when the explosion reveals a Blue ball of fire.
+
+3. Sun Rumble.wav Plays throuought the whole sequence.
+
+4. Final Stage.wav for when the ball turns to a white dwarf.
+
+4. Final Stage Collapse.wav for when the white dwarf is about to explode.
+
+5. Supernova.wav fade to white and everything is vaporized.

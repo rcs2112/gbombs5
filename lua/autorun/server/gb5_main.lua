@@ -6,6 +6,8 @@ util.AddNetworkString( "gbombs5_scp_2" )
 util.AddNetworkString( "gbombs5_scp_3" )
 util.AddNetworkString( "gbombs5_romulancloak" )
 util.AddNetworkString( "gbombs5_romulancloak_phys" )
+util.AddNetworkString( "gbombs5_general" )
+util.AddNetworkString( "gbombs5_sunbomb" )
 SetGlobalString ( "gb_ver", 5 )
 
 
@@ -50,7 +52,6 @@ function gb5_pass( ply, command, args, ClassName)
 		if str_c==10 then	
 			ply:ChatPrint("_Access_")
 			ply.pass=1
-			print("add")
 			concommand.Add( "gb5_shadowdrive", gb5_shadowdrive )
 			concommand.Add( "gb5_shadowvortex", gb5_shadowvortex )
 			concommand.Add( "gb5_shadow_form", gb5_shadow_form )

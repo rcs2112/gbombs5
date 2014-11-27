@@ -6,7 +6,7 @@ ENT.Spawnable		            	 =  true
 ENT.AdminSpawnable		             =  true 
 
 ENT.PrintName		                 =  "Space nuke"
-ENT.Author			                 =  "Natsu"
+ENT.Author			                 =  "Rogue"
 ENT.Contact		                     =  ""
 ENT.Category                         =  "GB5: Specials"
 
@@ -101,15 +101,19 @@ function ENT:Explode()
 		ent:SetVar("DELAY",0.01)
 		ent:SetVar("Shocktime",12)
 		ent:SetVar("SOUND", "ambient/explosions/explode_9.wav")
+		
 		local ent = ents.Create("gb5_shockwave_ent")
 		ent:SetPos( pos ) 
 		ent:Spawn()
 		ent:Activate()
 		ent:SetVar("DEFAULT_PHYSFORCE", 155)
-		ent:SetVar("DEFAULT_PHYSFORCE_PLYAIR", 1555)
-		ent:SetVar("DEFAULT_PHYSFORCE_PLYGROUND", 155)
 		ent:SetVar("GBOWNER", self.GBOWNER)
 		ent:SetVar("MAX_RANGE",5000)
+		ent.ForceAffectType="Ground"
+		ent.DamageType="Ground"
+		ent.DMGType=DMG_BULLET
+		ent.DamageRange={1,2}
+
 		if GetConVar("gb5_sound_speed"):GetInt() == 0 then
 			ent:SetVar("SHOCKWAVE_INCREMENT",200)
 		elseif GetConVar("gb5_sound_speed"):GetInt()== 1 then

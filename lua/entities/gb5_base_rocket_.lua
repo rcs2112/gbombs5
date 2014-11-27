@@ -67,8 +67,8 @@ ExploSnds[1]                         =  "BaseExplosionEffect.Sound"
 ENT.Spawnable		            	 =  false     
 ENT.AdminSpawnable		             =  false       
 
-ENT.PrintName		                 =  "natsu"            
-ENT.Author			                 =  "natsu"       
+ENT.PrintName		                 =  "Rogue"            
+ENT.Author			                 =  "Rogue"       
 ENT.Contact			                 =  "crap" 
 ENT.Category                         =  "Explosives"   
 

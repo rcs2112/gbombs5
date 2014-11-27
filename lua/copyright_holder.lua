@@ -1,2 +1,2 @@
--- This addon was created by [GB5] Natsu Dragneel
+-- This addon was created by [GB5] Rogue Dragneel
 -- Unauthorised upload will be dealt with

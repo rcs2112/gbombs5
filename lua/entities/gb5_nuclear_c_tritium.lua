@@ -7,7 +7,7 @@ ENT.Spawnable		            	 =  true
 ENT.AdminSpawnable		             =  true 
 
 ENT.PrintName		                 =  "H-3 (Tritium)"
-ENT.Author			                 =  "natsu"
+ENT.Author			                 =  "Rogue"
 ENT.Contact		                     =  "baldursgate3@gmail.com"
 ENT.Category                         =  "GB5: Custom Nukes"
 

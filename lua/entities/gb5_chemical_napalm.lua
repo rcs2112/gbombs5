@@ -13,7 +13,7 @@ ENT.Spawnable		            	 =  true
 ENT.AdminSpawnable		             =  true 
 
 ENT.PrintName		                 =  "Mark 77 Napalm"
-ENT.Author			                 =  "Natsu"
+ENT.Author			                 =  "Rogue"
 ENT.Contact		                     =  "baldursgate3@gmail.com"
 ENT.Category                         =  "GB5: Chemical"
 
@@ -135,6 +135,6 @@ function ENT:SpawnFunction( ply, tr )
      ent:SetPos( tr.HitPos + tr.HitNormal * 26 ) 
      ent:Spawn()
      ent:Activate()
-
+	
      return ent
 end

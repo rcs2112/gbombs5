@@ -59,14 +59,11 @@ function ENT:Think()
 			 end
 		 end
  	 end
-	 self.Bursts = self.Bursts + 1
-	 if (self.Bursts >= self.MAX_BURSTS) then
-		 timer.Simple(5, function()
-			if self:IsValid() then
-				self:Remove()
-			end
-		 end)
-	 end
+	 timer.Simple(2, function()
+		if self:IsValid() then
+			self:Remove()
+		end
+	 end)
 	 self:NextThink(CurTime() + self.DELAY)
 	 return true
 	 end

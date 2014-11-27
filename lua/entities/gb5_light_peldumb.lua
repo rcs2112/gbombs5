@@ -7,7 +7,7 @@ ENT.Spawnable		            	 =  false
 ENT.AdminSpawnable		             =  false
 
 ENT.PrintName		                 =  "Pellet"
-ENT.Author			                 =  "Natsu"
+ENT.Author			                 =  "Rogue"
 ENT.Contact		                     =  "baldursgate3@gmail.com"
 ENT.Category                         =  ""
 
